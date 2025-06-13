@@ -24,7 +24,6 @@ import {
 import TestimonialSlider from "@/components/testimonial-slider";
 import { Link, useLoaderData } from "@remix-run/react";
 import VapiWidget from "@/components/vapi-testing";
-import { env } from "cloudflare:workers";
 
 export const meta: MetaFunction = () => {
   return [

@@ -114,7 +114,7 @@ const VapiWidget: React.FC<VapiWidgetProps> = ({
               "0 4px 12px rgba(18, 165, 148, 0.3)";
           }}
         >
-          🎤 Talk to Assistant
+          Test AI Setter
         </button>
       ) : (
         <div
